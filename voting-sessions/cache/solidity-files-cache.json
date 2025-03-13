@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ouass\\Downloads\\projet_blockchain_final-main\\projet_blockchain_final-main\\voting-sessions\\contracts\\VotingSessions.sol": {
+      "lastModificationDate": 1741556382591,
+      "contentHash": "73fbae6d12e7315a0eda63c0d9150cac",
+      "sourceName": "contracts/VotingSessions.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "VotingSessions"
+      ]
+    }
+  }
+}
